@@ -1,5 +1,5 @@
 # susuru
-susuruDatabase
+susuruDatabase <br>
 #get_susuru_movie_data.py
 outubeAPIを使ってSUSURUTVの動画を取得し、csvを書き出すプログラム <br>
 参照サイト : https://diy-programming.site/youtube/channel-video-info-get/ <br>
